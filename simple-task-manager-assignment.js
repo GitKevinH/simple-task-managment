@@ -1,5 +1,5 @@
 let taskmanager = (function () {
-  let tasks = [];
+ tasks = [];
 
   function addTask(string) {
     tasks.push(string);
